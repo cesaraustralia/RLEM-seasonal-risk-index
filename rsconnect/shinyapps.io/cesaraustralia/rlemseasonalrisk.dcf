@@ -1,0 +1,12 @@
+name: rlemseasonalrisk
+title: rlemseasonalrisk
+username:
+account: cesaraustralia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3798437
+bundleId: 4583623
+url: https://cesaraustralia.shinyapps.io/rlemseasonalrisk/
+when: 1620693432.3573
+asMultiple: FALSE
+asStatic: FALSE
