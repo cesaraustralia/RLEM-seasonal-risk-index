@@ -53,7 +53,7 @@ ui <- fluidPage(
     headerPanel("RLEM severity risk assessment"),
     sidebarPanel(
       HTML("<i>Enter your paddock details below</i><br><br>"),
-      selectInput("y0", "0. Last year's paddock", c("Crop", "Pasture")),
+      selectInput("y0", "0. Previous rotation", c("Crop", "Pasture")),
       uiOutput("y1"),
       uiOutput("y2"),
       uiOutput("y3"),

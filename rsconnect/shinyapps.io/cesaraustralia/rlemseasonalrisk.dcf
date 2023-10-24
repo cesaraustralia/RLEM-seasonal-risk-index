@@ -5,9 +5,7 @@ account: cesaraustralia
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3798437
-bundleId: 7041357
+bundleId: 7842972
 url: https://cesaraustralia.shinyapps.io/rlemseasonalrisk/
-when: 1680499261.51033
-lastSyncTime: 1680499261.51034
 asMultiple: FALSE
 asStatic: FALSE
